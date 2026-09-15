@@ -21,3 +21,4 @@ terraform.rc
 .envrc
 kubeconfig*
 backend.hcl
+tfplan
